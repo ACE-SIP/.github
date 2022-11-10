@@ -1,4 +1,4 @@
-# Algorand Centre of Excellence on Sustainability Informatics for the Pacific
+# Algorand Centre of Excellence on Sustainability Informatics for the Pacific Project [ACE-SIP Related Project](https://ace-sip.org/)
 
 ## Education Credential Management System
 
